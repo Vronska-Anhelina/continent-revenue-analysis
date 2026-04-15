@@ -6,4 +6,4 @@ Analysis of revenue and user metrics by continent, including mobile vs desktop b
 
 ## Technologies
 SQL, Google BigQuery, CTE, CROSS JOIN
-```
+
